@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejrAxyJYR39eHNpuWc5buBXsTtt1Mco9kyBtqj7kbzZOdGHlywy1sb3AGUJV2GIrP9J+GgUR7SISw8cICkCqvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Masaüstü\\RedisExercise\\RedisExercise\\RedisExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
